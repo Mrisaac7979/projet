@@ -1,0 +1,138 @@
+body {
+  background-color: cyan ;
+  margin: 0;
+}
+t{
+   background-color: cyan;
+}
+
+body{
+   font-weight: bold;
+   font-style: italic;
+   background-size: cover;
+   background-color: cyan;
+   background-image: url('bg01.jpg');
+}
+
+h1{
+   font-weight: bold;
+   font-style: italic;
+}
+ 
+.login-box
+ {
+  height: 50%;
+  width: 30%;
+  border: 1px solid grey;
+  margin-left: 35%;
+  margin-top: 10%;
+  position: relative;
+       box-shadow: 21px 12px 24px 10px rgba(0, 0, 0, .5);
+       background: cyan;
+ }
+ .login-header
+ {
+  text-align: center;
+  font-family: "vardhana",cursive;
+  font-size: 35px;
+  background: linear-gradient(to bottom, #cyan 0%, #cyan 100%);
+  color:#cyan;
+  position: relative;
+       box-shadow: 1px 3px 14px  rgba(0, 0, 0, .5);
+    font-weight: bold;
+   font-style: italic;
+ }
+ .login-body
+ {
+  padding: 20px;
+  line-height: 2;
+ }
+.msg {
+color: #cyan;
+   background-color: transparent;
+   border-color: #f5c6cb;
+padding: .75rem 1.25rem;
+   margin-bottom: 1rem;
+   border: 1px solid transparent;
+   border-radius: .25rem;
+}  
+.main{
+ margin-top:50px;
+}
+ 
+h1.title { 
+font-size: 50px;
+font-family: , cursive;
+font-weight: 400; 
+}
+ 
+hr{
+width: 10%;
+color: #cyan;
+}
+ 
+.form-group{
+margin-bottom: 15px;
+}
+ 
+label{
+margin-bottom: 15px;
+}
+ 
+input,
+input::-webkit-input-placeholder {
+   font-size: 11px;
+   padding-top: 3px;
+}
+
+input{
+   font-weight: bold;
+   font-style: italic;
+}
+
+label{
+   font-weight: bold;
+   font-style: italic;
+}
+ 
+.main-login{
+ background-color: cyan;
+}
+.form-control {
+   height: auto!important;
+padding: 8px 12px !important;
+}
+.input-group {
+   -webkit-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.21)!important;
+   -moz-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.21)!important;
+   box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.21)!important;
+}
+
+
+ 
+.login-button{
+margin-top: 5px;
+}
+ 
+.login-register{
+font-size: 11px;
+text-align: center;
+}
+
+p{
+   font-weight: bold;
+   font-style: italic;
+}
+ 
+.site-header {
+   background-color: rgba(0, 0, 0, .85);
+   -webkit-backdrop-filter: saturate(180%) blur(20px);
+   backdrop-filter: saturate(180%) blur(20px);
+}
+.site-header a { 
+color:#cyan;
+}
+
+textarea{
+	height: 90px;
+}
